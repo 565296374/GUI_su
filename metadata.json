@@ -1,0 +1,5 @@
+{
+  "name": "NetSentry 网络哨兵 PWA",
+  "description": "一款专业的网络流量分析工具。支持桌面安装 (PWA)，拥有独立运行窗口。具备实时抓包、Hex/ASCII 分析、AI 智能诊断及数据导出功能。",
+  "requestFramePermissions": []
+}
